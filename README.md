@@ -42,21 +42,24 @@ bash
 npm run dev
 Visit http://localhost:3000 in your browser to see the application.
 
-Scripts
+## Scripts
 dev: Run the Vite development server.
 build: Build the project for production.
 lint: Lint the project using ESLint.
 preview: Run Vite in preview mode.
-Dependencies
+
+## Dependencies
 @heroicons/react: Icons for the UI.
 @material-tailwind/react: Tailwind CSS components.
 ... (other dependencies)
-Dev Dependencies
+
+## Dev Dependencies
 @types/react: TypeScript types for React.
 @typescript-eslint/eslint-plugin: ESLint plugin for TypeScript.
 eslint: Linting tool for JavaScript and TypeScript.
 ... (other dev dependencies)
-License
+
+## License
 This project is licensed under the MIT License.
 
 
