@@ -43,21 +43,23 @@ npm run dev
 Visit http://localhost:3000 in your browser to see the application.
 
 ## Scripts
-dev: Run the Vite development server.
-build: Build the project for production.
-lint: Lint the project using ESLint.
-preview: Run Vite in preview mode.
+- dev: Run the Vite development server.
+- build: Build the project for production.
+- lint: Lint the project using ESLint.
+- preview: Run Vite in preview mode.
 
 ## Dependencies
-@heroicons/react: Icons for the UI.
-@material-tailwind/react: Tailwind CSS components.
-... (other dependencies)
+- @heroicons/react: Icons for the UI,
+- clsx,
+- emailjs-com,
+- framer-motion,
+- ... (other dependencies)
 
 ## Dev Dependencies
-@types/react: TypeScript types for React.
-@typescript-eslint/eslint-plugin: ESLint plugin for TypeScript.
-eslint: Linting tool for JavaScript and TypeScript.
-... (other dev dependencies)
+- @types/react: TypeScript types for React.
+- @typescript-eslint/eslint-plugin: ESLint plugin for TypeScript.
+- eslint: Linting tool for JavaScript and TypeScript.
+- ... (other dev dependencies)
 
 ## License
 This project is licensed under the MIT License.
