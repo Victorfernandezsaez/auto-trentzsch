@@ -4,7 +4,7 @@ Welcome to the Auto Trentzsch repository! This project is a website for Auto Tre
 
 ## Description
 
-This project is built using React, Vite, and Tailwind CSS. It showcases a Hero component that welcomes users to Auto Trentzsch.
+This project is built using React, Vite, and Tailwind CSS. 
 
 ## Table of Contents
 
